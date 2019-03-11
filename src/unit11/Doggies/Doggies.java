@@ -18,18 +18,28 @@ public class Doggies
 	
 	public void set(int spot, int age, String name)
 	{
-		//put a new Dog in the array at spot 
-		//make sure spot is in bounds		
+            //put a new Dog in the array at spot 
+            //make sure spot is in bounds		
 	}
 
 	public String getNameOfOldest()
 	{
-		return null;
+            String old = "";
+            for (int i = 0; i < pups.length; i++)
+            {
+                
+            }
+            return old;
 	}
 
 	public String getNameOfYoungest()
 	{
-		return null;
+            String young = "";
+            for (int i = 0; i < pups.length; i++)
+            {
+                
+            }
+            return young;
 	}
 
 	public String toString()

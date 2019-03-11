@@ -1,4 +1,4 @@
-package unit11;
+package WordPrinter;
 
 //(c) A+ Computer Science
 //www.apluscompsci.com
